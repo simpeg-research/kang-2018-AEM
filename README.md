@@ -11,10 +11,7 @@ Notebooks and python scripts to reproduce the figures shown in
 "[Feasibility of induced polarization effects in time-domain airborne EM data](/aem_workshop_2018_kang_seogi.pdf),"
 submitted to the AEM 2018 workshop.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hebXfwISnh0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hkrplu6f8co" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/hebXfwISnh0" frameborder="0" allowfullscreen></iframe>
 
 
 ## Summary
