@@ -1,4 +1,4 @@
-name: aem-environment
+name: aemip-environment
 
 channels:
   - conda-forge
