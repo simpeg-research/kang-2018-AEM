@@ -31,6 +31,7 @@ install:
   - conda env create -f environment.yml
   - source activate aemip-environment
   - export MPLBACKEND="agg"
+  - pip install -r requirements_dev.txt
 
 script:
   - travis_wait 20 nosetests $TEST_DIR -v -s
