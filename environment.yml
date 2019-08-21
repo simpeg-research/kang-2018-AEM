@@ -3,6 +3,7 @@ name: aem-environment
 channels:
   - conda-forge
   - defaults
+
 dependencies:
   - numpy
   - scipy
