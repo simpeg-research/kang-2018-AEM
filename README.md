@@ -2,12 +2,12 @@
 
 # Detecting induced polarization effects in time-domain data: a modeling study using stretched exponentials
 
+<center>
 ![Alt Text](/notebooks/emip.gif)
+</center>
 
 ## Overview
 This repository contains the notebooks used to generate the examples shown in "Detecting induced polarization effects in time-domain data: a modeling study using stretched exponentials" by [Seogi Kang](https://github.com/sgkang), [Lindsey J. Heagy](https://github.com/lheagy), [Douglas W. Oldenburg](https://github.com/dougoldenburg).
-
-The potential for extracting and interpreting induced polarization (IP) data from air- borne surveys is now broadly recognized. There is, however, still considerable discussion about the conditions under which the technique can provide knowledge about the subsurface and thus, its practical applications. For simulating time-domain EM data with IP effects, we will use stretched exponential (SE) function rather than conventional Cole-Cole model.
 
 This collection of notebooks will first illustrates physics of induced polarization (IP) effects in airborne time-domain electromagnetic data, and then investigate under what conditions airborne IP can detect chargeable bodies at depth. The list of the notebooks are:
 
