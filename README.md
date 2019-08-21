@@ -2,9 +2,7 @@
 
 # Detecting induced polarization effects in time-domain data: a modeling study using stretched exponentials
 
-<center>
-![Alt Text](/notebooks/emip.gif)
-</center>
+->![Alt Text](/notebooks/emip.gif)<-
 
 ## Overview
 This repository contains the notebooks used to generate the examples shown in "Detecting induced polarization effects in time-domain data: a modeling study using stretched exponentials" by [Seogi Kang](https://github.com/sgkang), [Lindsey J. Heagy](https://github.com/lheagy), [Douglas W. Oldenburg](https://github.com/dougoldenburg).
