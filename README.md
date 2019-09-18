@@ -5,7 +5,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg-research/kang-2018-AEM/master?filepath=notebooks%2Findex.ipynb)
 [![Build Status](https://travis-ci.org/simpeg-research/kang-2018-AEM.svg?branch=master)](https://travis-ci.org/simpeg-research/kang-2018-AEM)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3445422.svg)](https://doi.org/10.5281/zenodo.3445422)
 
 ![Alt Text](/notebooks/emip.gif)
 
